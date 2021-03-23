@@ -1,0 +1,4 @@
+Chocolate 350 5.6
+Milk 23 90
+CocaCola 867 4.5
+Bread 270 2.5
